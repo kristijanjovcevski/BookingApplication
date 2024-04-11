@@ -1,0 +1,12 @@
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\bin\Debug\net8.0\BookingApplication.Domain.deps.json
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\bin\Debug\net8.0\BookingApplication.Domain.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\bin\Debug\net8.0\BookingApplication.Domain.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.AssemblyInfo.cs
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\refint\BookingApplication.Domain.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\BookingApplication.Domain.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Domain\obj\Debug\net8.0\ref\BookingApplication.Domain.dll

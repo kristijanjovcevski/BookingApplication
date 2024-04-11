@@ -1,0 +1,15 @@
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\bin\Debug\net8.0\BookingApplication.Repository.deps.json
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\bin\Debug\net8.0\BookingApplication.Repository.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\bin\Debug\net8.0\BookingApplication.Repository.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\bin\Debug\net8.0\BookingApplication.Domain.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\bin\Debug\net8.0\BookingApplication.Domain.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.AssemblyInfo.cs
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingA.D8D035B9.Up2Date
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\refint\BookingApplication.Repository.dll
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\BookingApplication.Repository.pdb
+C:\Users\UserWin\Documents\ProjectFINKI\ProjectIS\BookingApplication\BookingApplication\BookingApplication.Repository\obj\Debug\net8.0\ref\BookingApplication.Repository.dll

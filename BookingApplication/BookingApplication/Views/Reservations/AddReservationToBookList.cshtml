@@ -1,0 +1,44 @@
+﻿@model BookingApplication.Domain.DTO.AddReservationToBookingListDto;
+
+
+
+<div class="container">
+    <form method="post" asp-action="AddReservationToBookList">
+
+    <div class="row">
+        <div class="col">
+            <input asp-for="@Model.SelectedReservationId" type="hidden"/>
+        </div>
+    </div>
+    @* <div class="row">
+
+        <div class="col">
+            <label>Apartment name</label>
+            <input type="text" asp-for="@Model.SelectedReservation.Apartment.ApartmentName" disabled />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+
+
+            <label>
+                Price per night
+            </label>
+                <input asp-for="@Model.SelectedReservation.Apartment.Price_per_night" disabled />
+        </div>
+    </div> *@
+
+    <div class="row">
+        <div class="col">
+            <label>Number of nights</label>
+            <input asp-for="@Model.NumberOfNights" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-success">Add Reservation to BookList</button>
+        </div>
+    </div>
+    </form>
+</div>
